@@ -1,0 +1,9 @@
+[submodule "ceiot-tf-sbc"]
+	path = ceiot-tf-sbc
+	url = https://github.com/joshpg190498/ceiot-tf-sbc
+[submodule "ceiot-tf-background"]
+	path = ceiot-tf-background
+	url = https://github.com/joshpg190498/ceiot-tf-background
+[submodule "ceiot-tf-app"]
+	path = ceiot-tf-app
+	url = https://github.com/joshpg190498/ceiot-tf-app
