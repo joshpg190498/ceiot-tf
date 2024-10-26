@@ -1,9 +1,12 @@
-[submodule "ceiot-tf-sbc"]
-	path = ceiot-tf-sbc
-	url = https://github.com/joshpg190498/ceiot-tf-sbc
-[submodule "ceiot-tf-background"]
-	path = ceiot-tf-background
-	url = https://github.com/joshpg190498/ceiot-tf-background
-[submodule "ceiot-tf-app"]
-	path = ceiot-tf-app
-	url = https://github.com/joshpg190498/ceiot-tf-app
+[submodule "iot-device-background"]
+	path = iot-device-background
+	url = https://github.com/joshpg190498/iot-device-background
+[submodule "iot-server-background"]
+	path = iot-server-background
+	url = https://github.com/joshpg190498/iot-server-background
+[submodule "iot-server-infra"]
+	path = iot-server-infra
+	url = https://github.com/joshpg190498/iot-server-infra
+[submodule "iot-server-web-app"]
+	path = iot-server-web-app
+	url = https://github.com/joshpg190498/iot-server-web-app
